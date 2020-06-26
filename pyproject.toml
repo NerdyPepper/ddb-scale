@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "ddb_scaling"
+name = "ddb_scale"
 version = "0.1.0"
 description = "Scale RCU/WCU of DynamoDB tables"
 authors = ["Akshay <nerdy@peppe.rs>"]
